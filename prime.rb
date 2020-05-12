@@ -3,5 +3,4 @@ def  prime(number)
     (2..number/2).none?{|i| n % i == 0}
   end
 end
-  
-end
+
